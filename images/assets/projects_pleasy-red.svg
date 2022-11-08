@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="218" height="217" viewBox="0 0 218 217">
+    <defs>
+        <filter id="7rt2dqx4ba" x="0" y="0" width="218" height="217" filterUnits="userSpaceOnUse">
+            <feOffset dy="5"/>
+            <feGaussianBlur stdDeviation="5" result="blur"/>
+            <feFlood flood-opacity=".302"/>
+            <feComposite operator="in" in2="blur"/>
+        </filter>
+        <filter id="wt5dk8nu6b" x="0" y="0" width="218" height="217" filterUnits="userSpaceOnUse">
+            <feOffset dy="-10"/>
+            <feGaussianBlur stdDeviation="5" result="blur-2"/>
+            <feFlood flood-opacity=".059" result="color"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+            <feComposite operator="in" in="color"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-type="innerShadowGroup" transform="translate(15 10)" data-name="Component 5 – 7">
+        <g style="filter:url(#7rt2dqx4ba)">
+            <g data-name="Rectangle 23" style="stroke:#f7f7f7;fill:#e73955">
+                <rect width="188" height="187" rx="73" style="stroke:none"/>
+                <rect x=".5" y=".5" width="187" height="186" rx="72.5" style="fill:none"/>
+            </g>
+        </g>
+        <rect data-name="Rectangle 23" width="188" height="187" rx="73" style="fill:#e73955"/>
+        <g style="filter:url(#wt5dk8nu6b)">
+            <rect data-name="Rectangle 23" width="188" height="187" rx="73" style="fill:#fff"/>
+        </g>
+        <g data-name="Rectangle 23" style="fill:none;stroke:#f7f7f7">
+            <rect width="188" height="187" rx="73" style="stroke:none"/>
+            <rect x=".5" y=".5" width="187" height="186" rx="72.5" style="fill:none"/>
+        </g>
+    </g>
+    <g data-name="로고_플리지_흰색">
+        <g data-name="Group 76">
+            <path data-name="Path 44" d="M27.68 92.978c0 3.129-1.4 5.6-5.593 5.6H12.25V111.3H5.69V77.37h16.4c4.2 0 5.593 2.516 5.593 5.645v9.963zm-15.43-9.349v8.681h7.473a1.526 1.526 0 0 0 1.444-1.569v-5.552a1.526 1.526 0 0 0-1.444-1.569H12.25z" transform="translate(30.723 8.801)" style="fill:#fff"/>
+            <path data-name="Path 45" d="M38.98 111.3V77.37h6.56v27.667h13.113v6.263H38.98z" transform="translate(23.841 8.801)" style="fill:#fff"/>
+        </g>
+        <g data-name="Group 78" style="opacity:.4">
+            <g data-name="Group 77">
+                <path data-name="Path 46" d="M67.56 111.3V77.37h19.459v6.266H74.12v7.354h8.044v6.41H74.12v7.641h13.558v6.259h-20.11z" transform="translate(17.934 8.801)" style="fill:#fff"/>
+                <path data-name="Path 47" d="M112.729 104.8h-10.407l-1.928 6.5H94.23l10.67-33.93h5.775l10.844 33.93H114.7l-1.967-6.5zm-4.157-14.233-1.007-3.6h-.048l-1.047 3.6-2.316 8.068h6.735l-2.316-8.068z" transform="translate(11.504 8.801)" style="fill:#fff"/>
+                <path data-name="Path 48" d="M137.775 88.371c0 1.708.571 2.135 2.1 2.229l7.782.38c4.2.186 5.593 2.562 5.593 5.692v8.969c0 3.129-1.4 5.645-5.593 5.645h-11.674c-4.2 0-5.593-2.516-5.593-5.645v-3.417l6.338-1.374v2.609a1.526 1.526 0 0 0 1.444 1.569h7.084a1.526 1.526 0 0 0 1.444-1.569v-3.8c0-1.615-.484-2.042-2.1-2.135l-7.742-.38c-4.2-.186-5.593-2.516-5.593-5.645v-8.494c0-3.129 1.4-5.645 5.593-5.645h10.532c4.2 0 5.593 2.516 5.593 5.645v3.129l-6.338 1.374v-2.321a1.526 1.526 0 0 0-1.444-1.569h-5.989a1.526 1.526 0 0 0-1.444 1.569v3.176z" transform="translate(2.91 8.803)" style="fill:#fff"/>
+                <path data-name="Path 49" d="M170.727 96.348 161.2 77.37h7.3l5.775 12 5.767-12h6.949l-9.527 18.978V111.3h-6.735z" transform="translate(-4.576 8.801)" style="fill:#fff"/>
+            </g>
+        </g>
+    </g>
+</svg>

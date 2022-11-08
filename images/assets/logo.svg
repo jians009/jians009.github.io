@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="303" height="66" viewBox="0 0 303 66">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 46px;
+        font-family: NotoSansKR-Black, Noto Sans KR;
+        font-weight: 800;
+      }
+
+      .cls-2 {
+        font-size: 34px;
+        font-family: NotoSansKR-Regular, Noto Sans KR;
+      }
+    </style>
+  </defs>
+  <g id="logo" transform="translate(-62 -28)">
+    <g id="Group_118" data-name="Group 118">
+      <text id="JIAN_s" data-name="JIAN&apos;s" class="cls-1" transform="translate(62 81)"><tspan x="0" y="0">JIAN&apos;s</tspan></text>
+      <text id="_Portpolio" data-name=" Portpolio" class="cls-2" transform="translate(208 84)"><tspan x="0" y="0" xml:space="preserve"> Portpolio</tspan></text>
+    </g>
+  </g>
+</svg>
